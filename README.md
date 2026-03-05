@@ -49,10 +49,4 @@
 5. Copy the result and save it as a new Python script.
 
 ---
-
-## 📝 License / Ліцензія
-This project is licensed under the MIT License.
-Цей проєкт поширюється під ліцензією MIT.
-
----
 **Developed with ❤️ for developers.**
